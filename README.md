@@ -7,7 +7,7 @@
 
 📌 포트폴리오: https://currentjob.github.io/portfolio-github-pages
 
-📝 기술 공유: https://currentjob.github.io/devops-pipeline
+📝 기술 정보 기록: https://currentjob.github.io/devops-pipeline
 
 ---
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-### 안녕하세요, CurrentJob 입니다👋
+### 안녕하세요, CurrentJob 입니다 👋
 
 </div>
 <br>

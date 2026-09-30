@@ -10,7 +10,7 @@
 
 </div>
 
-## 하는 일
+## 주요 기술
 
 - 컴퓨터 비전: YOLO, OCR, AutoEncoder 모델 개발과 ONNX 변환, Triton 배포
 - 브라우저 AI: WebGPU, ONNX Runtime Web, Transformers.js로 서버 없이 추론
@@ -22,7 +22,7 @@
 
 ### 브라우저에서 동작하는 AI
 
-| 프로젝트 | 내용 | 데모 |
+| 프로젝트 | 내용 | 주소 |
 |---|---|:---:|
 | [local-code-review](https://github.com/currentJob/local-code-review) | git diff를 붙여 넣으면 브라우저 안에서 Qwen2.5-Coder 1.5B가 코드 리뷰를 해 줍니다. 코드는 외부로 전송되지 않습니다. | [링크](https://currentjob.github.io/local-code-review/) |
 | [ocr-llm-page](https://github.com/currentJob/ocr-llm-page) | PP-OCRv5로 한국어 이미지를 읽고 LLM으로 요약합니다. 다른 사이트에서 가져다 쓸 수 있는 OCR 모듈도 함께 배포합니다. | [링크](https://currentjob.github.io/ocr-llm-page/) |
@@ -30,14 +30,14 @@
 
 ### 모델 서빙과 인프라
 
-| 프로젝트 | 내용 | 데모 |
+| 프로젝트 | 내용 | 주소 |
 |---|---|:---:|
 | [triton-grpc-ocr](https://github.com/currentJob/triton-grpc-ocr) | PaddleOCR 모델을 NVIDIA Triton으로 서빙하고 gRPC 게이트웨이와 FastAPI로 연결했습니다. 비동기 작업 큐와 RAG 검색을 포함합니다. | [링크](https://currentjob.github.io/triton-grpc-ocr/) |
 | [devops-pipeline](https://github.com/currentJob/devops-pipeline) | 기술 블로그와 인프라 구성 저장소입니다. CI/CD, GHCR, Kubernetes 배포, Prometheus와 Grafana 모니터링을 다룹니다. | [블로그](https://currentjob.github.io/devops-pipeline/) |
 
 ### LLM 에이전트와 웹 서비스
 
-| 프로젝트 | 내용 | 데모 |
+| 프로젝트 | 내용 | 주소 |
 |---|---|:---:|
 | [langchain-monitoring](https://github.com/currentJob/langchain-monitoring) | 공장 설비 모니터링 시스템입니다. LangGraph로 센서 이상을 분석하고 조치를 제안하며, WebSocket 대시보드로 상태를 보여 줍니다. | |
 | [city-walk-planner](https://github.com/currentJob/city-walk-planner) | 도시를 고르면 지도 위에 하루 동선을 짜 주는 여행 플래너입니다. 동행과 일정, 경비를 함께 관리할 수 있습니다. | [링크](https://currentjob.github.io/city-walk-planner/) |

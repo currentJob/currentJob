@@ -24,7 +24,7 @@
 
 | 프로젝트 | 내용 | 주소 |
 |---|---|:---:|
-| [local-code-review](https://github.com/currentJob/local-code-review) | git diff를 붙여 넣으면 브라우저 안에서 Qwen2.5-Coder 1.5B가 코드 리뷰를 해 줍니다. 코드는 외부로 전송되지 않습니다. | [링크](https://currentjob.github.io/local-code-review/) |
+| [local-code-review](https://github.com/currentJob/local-code-review) | git diff를 붙여 넣으면 브라우저 안에서 Qwen2.5-Coder 1.5B가 코드 리뷰를 해 줍니다. | [링크](https://currentjob.github.io/local-code-review/) |
 | [ocr-llm-page](https://github.com/currentJob/ocr-llm-page) | PP-OCRv5로 한국어 이미지를 읽고 LLM으로 요약합니다. 다른 사이트에서 가져다 쓸 수 있는 OCR 모듈도 함께 배포합니다. | [링크](https://currentjob.github.io/ocr-llm-page/) |
 | [yolov8-seg-page](https://github.com/currentJob/yolov8-seg-page) | YOLOv8-seg 모델을 ONNX로 변환해 Web Worker에서 추론하고 마스크를 보여 줍니다. | [링크](https://currentjob.github.io/yolov8-seg-page/) |
 
